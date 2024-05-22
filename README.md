@@ -17,6 +17,8 @@ Cloud Scythe Labs is an organization of innovators, hell bent on producing clean
 - TBA
 
 **A special thanks to our external contributors:**
-- [iynaix](github.com/iynaix) -- nix
-- [sezna](github.com/sezna) -- rust
-- [tfc](github.com/tfc) -- nix (Check out his school, [Nixcademy](https://nixcademy.com/)!)
+Whether your input made it into the commits or not, we appreciate all of the support you've given us.
+
+- [iynaix](github.com/iynaix) -- Nix contributor/consult
+- [sezna](github.com/sezna) -- Rust contributor/consult
+- [tfc](github.com/tfc) -- Nix contributor/consult (co-founder of [Nixcademy](https://nixcademy.com/), which we highly recommend)
