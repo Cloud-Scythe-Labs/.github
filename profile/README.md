@@ -12,7 +12,7 @@ Cloud Scythe Labs is an organization of innovators, hell bent on producing clean
 
 ## In Progress Projects
 > All of our projects are currently closed source. Please consider giving us a follow to track releases as they occur.
-- _`cloud-reaper`_ -- A cloud collaboration plug-in for the REAPER digital audio workstation <img src="cloud_reaper.jpeg" alt="cloud-reaper logo" width="75"/>
+- _`cloud-reaper`_ -- A cloud collaboration plug-in for the REAPER digital audio workstation <img src="cloud_reaper.jpeg" alt="cloud-reaper logo" width="25"/>
 - More TBA
 
 ## Contributing
