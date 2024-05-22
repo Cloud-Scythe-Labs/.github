@@ -1,8 +1,8 @@
-# Welcome to Cloud Scythe Labs
+<center><h1>Welcome to Cloud Scythe Labs</h1></center>
 
-<p align="center"><img src="cloud_reaper.jpeg" alt="cloud-reaper logo" width="100"/></p>
+<center><p>Cloud Scythe Labs is an organization of innovators, hell bent on producing clean, cutting edge and exciting software.</p></center>
 
-Cloud Scythe Labs is an organization of innovators, hell bent on producing clean, cutting edge and exciting software.
+<p align="center"><img src="cloud_reaper.jpeg" alt="cloud-reaper logo" width="150"/></p>
 
 ## Core Team
 - [andrewvious](github.com/andrewvious) -- our database management & cloud compute expert
