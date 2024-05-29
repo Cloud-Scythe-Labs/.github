@@ -23,4 +23,4 @@ Whether your input made it into the commits or not, we appreciate all of the sup
 - [sezna](github.com/sezna) -- Rust contributor/consult
 - [tfc](github.com/tfc) -- Nix contributor/consult (co-founder of [Nixcademy](https://nixcademy.com/), which we highly recommend)
 
-Currently, our projects are by invitation only. If you're interested in becoming an external contributor, please send us an email directly at github.eureka@gmail.com
+Currently, our projects are by invitation only. If you're interested in becoming an external contributor, please send us an email directly at cloudscythelabs@gmail.com
