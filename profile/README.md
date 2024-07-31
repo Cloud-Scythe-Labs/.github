@@ -3,16 +3,19 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Cloud-Scythe-Labs/.github/main/profile/cloud_reaper.jpeg" alt="cloud-reaper logo" width="150"/></p>
 
 ## Core Team
-- [andrewvious](github.com/andrewvious) -- our database management & cloud compute expert
-- [eureka-cpu](github.com/eureka-cpu) -- our software architect & devops engineer
+- [andrewvious](github.com/andrewvious)
+- [eureka-cpu](github.com/eureka-cpu)
+- [sezna](github.com/sezna)
 
 ### Our Tools
-- Rust -- The primary language for our software, known for its small binaries, speed and safety
-- Nix -- For its reliability, developer environments and robust ecosystem
+- Rust
+- Nix
 
 ## In Progress Projects
 > All of our projects are currently closed source. Please consider giving us a follow to track releases as they occur.
 - _`cloud-reaper`_ -- A cloud collaboration plug-in for the REAPER digital audio workstation
+- _`clown`_ -- A Bash script parser for converting common operating system level scripts to Windows
+- _`reascript-rs`_ -- A 1:1 ffi mapping of the C/C++ ReaScript API for Rust, inspired by `reaper-rs`
 - More TBA
 
 ## Contributing
@@ -20,7 +23,6 @@
 Whether your input made it into the commits or not, we appreciate all of the support you've given us.
 
 - [iynaix](github.com/iynaix) -- Nix contributor/consult
-- [sezna](github.com/sezna) -- Rust contributor/consult
 - [tfc](github.com/tfc) -- Nix contributor/consult (co-founder of [Nixcademy](https://nixcademy.com/), which we highly recommend)
 
 Currently, our projects are by invitation only. If you're interested in becoming an external contributor, please send us an email directly at cloudscythelabs@gmail.com
