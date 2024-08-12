@@ -6,10 +6,13 @@
 - [andrewvious](github.com/andrewvious)
 - [eureka-cpu](github.com/eureka-cpu)
 - [sezna](github.com/sezna)
+- [eve-flac](github.com/eve-flac)
 
 ### Our Tools
 - Rust
 - Nix
+- Bash
+- Kontakt Script
 
 ## In Progress Projects
 > All of our projects are currently closed source. Please consider giving us a follow to track releases as they occur.
